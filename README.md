@@ -1,5 +1,5 @@
 # U.S Capital Weather App
-
+Contributor: Karen John 
 This is a web application that uses Dash to visualize the average temperature and current temperatures of a set of capitals for states starting with a given letter. The temperatures are soured from 
 OpenWeather API using longitute and latitude coordinates. Users enter the first letter of the states that they want to filter and their API key to visualize the data.
 
