@@ -96,6 +96,9 @@ app.layout = html.Div([
      Input('api-key-input', 'value')]
 )
 def update_graph(letter, api_key):
+    #removing whitespace from input
+    letter= letter.strip()
+    api_key= api_key.strip()
 
     if not api_key:
         return go.Figure(), "Please enter your API key."
