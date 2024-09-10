@@ -1,8 +1,8 @@
 # U.S Capital Weather App
 Contributor: Karen John 
 
-This is a web application that uses Dash to visualize the average temperature and current temperatures of a set of capitals for states starting with a given letter. The temperatures are soured from 
-OpenWeather API using longitute and latitude coordinates. Users enter the first letter of the states that they want to filter and their API key to visualize the data.
+This is a web application that uses Dash to visualize the average temperature and current temperatures of a set of capitals for states starting with a given letter. The temperatures are sourced from 
+OpenWeather API using longitute and latitude coordinates. Users enter the first letter of the states that they want to filter and their API key to visualize the data on a bar graph with the average temperature plotted as a dashed line.
 
 ## Getting Started
 
@@ -17,7 +17,7 @@ OpenWeather API using longitute and latitude coordinates. Users enter the first 
 ### Datasets
 
 - `worldcities.csv`: This main dataset contains various information such as longititude and latitute about cities around the world .
-- `state_capitals.csv`: This dataset contains U.S state capitals and their corresponding states and used to clean/filter the main dataset for U.S capitals and states.
+- `state_capitals.csv`: This dataset contains U.S state capitals and their corresponding states and is used to clean/filter the main dataset for U.S capitals and states.
   
 ### Installation & Execution
 
