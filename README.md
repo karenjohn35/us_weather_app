@@ -16,7 +16,7 @@ OpenWeather API using longitute and latitude coordinates. Users enter the first 
 ### Datasets
 
 - `worldcities.csv`: This main dataset contains various information such as longititude and latitute about cities around the world .
-- `state_capitals.csv`: This dataset contains U.S state capitals and their corresponding states and used to filter the main dataset for U.S capitals and states.
+- `state_capitals.csv`: This dataset contains U.S state capitals and their corresponding states and used to clean/filter the main dataset for U.S capitals and states.
   
 ### Installation & Execution
 
