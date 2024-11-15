@@ -26,7 +26,7 @@ OpenWeather API using longitute and latitude coordinates. Users enter the first 
   ```sh
   pip install dash plotly polars 
   ```
-2. Get an API key at [https://api.openweathermap.org/data/2.5/weather](https://api.openweathermap.org/data/2.5/weather) and insert in Dash app when prompted. 
+2. Get an API key at [https://openweathermap.org/price](https://openweathermap.org/price) and insert in Dash app when prompted. This app uses Current Weather so only a free plan is necessary. 
 3. Clone the repository:
    
      ```sh
